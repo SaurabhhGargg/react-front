@@ -1,5 +1,5 @@
 import axios from 'axios';
-const url='http://localhost:8081';
+const url='https://ecommerce-backend2.herokuapp.com/';
 
 class EcommService
 {
